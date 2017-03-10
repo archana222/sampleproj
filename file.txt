@@ -1,1 +1,3 @@
 First line
+Fixed the bug
+added testcases
