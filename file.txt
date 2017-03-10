@@ -1,1 +1,2 @@
 First line
+Fixed the bug
